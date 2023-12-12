@@ -15,9 +15,13 @@
 
 - Experiência profissional em criação de objetos padrões e customizados, relatórios, dashboards, regras de validação, workflows, Flows, AppBuilder, ProcessBuilder, Layouts.
 
-- Experiência profissional em Sales Cloud.
+- Atualmente estou cursando Sistemas da informação na Universidade Anhembi Morumbi, com previsão de formação no final de 2024
 
-- Atualmente estou cursando Sistemas da informação na Universidade Anhembi Morumbi, com previsão de formação no final de 2024.
+- Experiência profissional em metodologia ágil SCRUM e gerenciamento de projetos Jira.
+
+- Double Star Ranger e três superbagdes na Trailhead.
+
+- Excelente comunicação e escrita em inglês, possuindo certificado "Cambridge English Level 1 Certificate in ESOL International (First)* - Grade C, Council of Europe Level B2".
 
 ## 🛠 Hard Skills
 - APEX
