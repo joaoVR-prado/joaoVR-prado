@@ -3,34 +3,35 @@
 
 
 
-## Desenvolvedor Salesforce. 🖥️
+## Desenvolvedor Mobile. 🖥️
 
 
 
 
 ## 🚀 Sobre mim
-- Como um desenvolvedor Salesforce, sou apaixonado por desenvolver soluções customizadas a fim de ajudar empresas a melhorarem suas plataformas Salesforce. 
+- Como um desenvolvedor Mobile, tenho conhecimento nas principais ferramentas para o desenvolvimento de aplicações Android, sendo Kotlin e Java. 
 
-- Experiência profissional em desenvolvimento Salesforce e suas tecnologias: APEX (triggers, apex assíncrono, testes e integração), LWC, Visualforce e AURA.
+- Experiência em práticas de orientação a objetos. 
 
-- Experiência profissional em criação de objetos padrões e customizados, relatórios, dashboards, regras de validação, workflows, Flows, AppBuilder, ProcessBuilder, Layouts.
-
-- Atualmente estou cursando Sistemas da informação na Universidade Anhembi Morumbi, com previsão de formação no final de 2024
+- Experiência em integrações REST.
 
 - Experiência profissional em metodologia ágil SCRUM e gerenciamento de projetos Jira.
 
-- Double Star Ranger e três superbagdes na Trailhead.
+- Atualmente estou cursando Sistemas da informação na Universidade Anhembi Morumbi, com previsão de formação no final de 2024
 
 - Excelente comunicação e escrita em inglês, possuindo certificado "Cambridge English Level 1 Certificate in ESOL International (First)* - Grade C, Council of Europe Level B2".
+  
 
 ## 🛠 Hard Skills
-- APEX
-- LWC
-- Visualforce
+- Kotlin
 - Java
-- JavaScript
-- SQL
-
+- Android
+- Mobile
+- Gradle
+- POO
+- Jetpack Compose
+- Kotlin Multiplatform
+- Certificação B2 ESOL Cambridge
 
 
 ## 🗣️ Soft Skills
