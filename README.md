@@ -3,13 +3,13 @@
 
 
 
-## Desenvolvedor Mobile. 🖥️
+## Desenvolvedor Android. 🖥️
 
 
 
 
 ## 🚀 Sobre mim
-- Como um desenvolvedor Mobile, tenho conhecimento nas principais ferramentas para o desenvolvimento de aplicações Android, sendo Kotlin e Java. 
+- Como um desenvolvedor Android, tenho conhecimento nas principais ferramentas para o desenvolvimento de aplicações Android, sendo Kotlin e Java. 
 
 - Experiência em práticas de orientação a objetos. 
 
